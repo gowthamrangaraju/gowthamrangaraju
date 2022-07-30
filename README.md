@@ -8,9 +8,7 @@ Front End Angular Developer
 * ✉️  You can contact me at [gowtham051996@gmail.com](mailto:gowtham051996@gmail.com)
 * 🧠  I'm learning .NET
 
-<a href="https://www.twitter.com/gowtham_raju22" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/gowtham_raju22?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.github.com/gowthamrangaraju" target="_blank" rel="noreferrer"><img
+<a href="https://www.github.com/gowthamrangaraju" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/gowthamrangaraju?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
